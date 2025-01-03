@@ -1,0 +1,1 @@
+write some data in sample filewrite another line
